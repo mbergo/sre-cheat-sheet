@@ -8,7 +8,7 @@ Reliability is a measure of how well the service lives up to its expectations.
   
 ### Principles
 1. Reliability is the most important feature
-2. Users, not monitoring decide reliability
+2. Users, not monitoring, decide reliability
 3. 100% is a wrong target in almost all cases
     - To reach 99.9% you need a seasoned software engineering team
     - To reach 99.99%, you need a well trained operations team with focus on automation
@@ -273,4 +273,5 @@ Risk spreadsheet - https://docs.google.com/spreadsheets/d/1XTsPG79XCCiaOEMj8K4mg
 
 ## Case Study
 https://docs.google.com/document/d/1VM1z7naMpNbb9vwWbMxQ1_GUVZu2mB9RsBe9SD9HQUA
+
 
